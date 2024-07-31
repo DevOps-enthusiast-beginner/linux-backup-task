@@ -1,6 +1,6 @@
 # Linux Backup Task
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Vitaliilinux-backup-task)
+![GitHub repo size](https://img.shields.io/github/repo-size/backup.sh)
 ![GitHub top language](https://img.shields.io/github/languages/top/Vitalii/linux-backup-task)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Vitalii/linux-backup-task)
 
